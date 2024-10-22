@@ -1,4 +1,4 @@
-## Hi I'am Brindavanam Praneetha 👋
+## Hi, I'm Brindavanam Praneetha 👋
 
 
 
