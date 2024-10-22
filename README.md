@@ -1,5 +1,5 @@
-## Hi there 👋
-I'am Brindavanam Praneetha
+## Hi I'am Brindavanam Praneetha 👋
+
 
 
 
