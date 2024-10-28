@@ -34,6 +34,10 @@
 
 ### ✍️ Recent Blog Posts
 - [PythonDairy ](https://pythondairy.blogspot.com/)
+- 
+### Play a Game!
+[Click here to play Tic-Tac-Toe!](https://your-github-game-url.com)
+
 
 
 
