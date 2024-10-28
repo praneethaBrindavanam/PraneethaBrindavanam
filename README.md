@@ -33,7 +33,7 @@
 [![](https://visitcount.itsvg.in/api?id=praneethaBrindavanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Recent Blog Posts
-- [PythonDairy ](https://python-dairy.blogspot.com/PythonDairy)
+- [PythonDairy ](https://pythondairy.blogspot.com/)
 
 
 
