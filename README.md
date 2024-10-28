@@ -32,6 +32,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=praneethaBrindavanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### ✍️ Recent Blog Posts
+- [The Power of Python ](https://python-dairy.blogspot.com/power-of-python)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
