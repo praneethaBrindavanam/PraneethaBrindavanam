@@ -4,6 +4,7 @@
 
 
 - 🔭 Currently project intern at Infosys SpringBoard 5.0
+- Open source contributor at GSSoc'extd 2024
 
 
 
