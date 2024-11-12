@@ -38,15 +38,9 @@
 
 
 
-###GSSoC Badges
+### GSSoC Badges
 
-![Explorer Badge](URL-to-your-Explorer-Badge-image)
-![Adventurer Badge](URL-to-your-Adventurer-Badge-image)
-![Trailblazer Badge](URL-to-your-Trailblazer-Badge-image)
-![Summit Seeker Badge](URL-to-your-Summit-Seeker-Badge-image)
-![Champion Badge](URL-to-your-Champion-Badge-image)
-![Postman Badge](URL-to-your-Postman-Badge-image)
-![Hack Web3Conf Badge](URL-to-your-Hack-Web3Conf-Badge-image)
+
 
 
 
