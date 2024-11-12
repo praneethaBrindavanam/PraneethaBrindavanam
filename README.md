@@ -3,7 +3,7 @@
 
 
 
--  Currently project intern at Infosys SpringBoard 5.0
+- Currently project intern at Infosys SpringBoard 5.0
 - Open source contributor at GSSoC'extd 2024
 
 
@@ -35,6 +35,18 @@
 
 ### ✍️ Recent Blog Posts
 - [PythonDairy ](https://pythondairy.blogspot.com/)
+
+
+
+###GSSoC Badges
+
+![Explorer Badge](URL-to-your-Explorer-Badge-image)
+![Adventurer Badge](URL-to-your-Adventurer-Badge-image)
+![Trailblazer Badge](URL-to-your-Trailblazer-Badge-image)
+![Summit Seeker Badge](URL-to-your-Summit-Seeker-Badge-image)
+![Champion Badge](URL-to-your-Champion-Badge-image)
+![Postman Badge](URL-to-your-Postman-Badge-image)
+![Hack Web3Conf Badge](URL-to-your-Hack-Web3Conf-Badge-image)
 
 
 
