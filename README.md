@@ -4,7 +4,7 @@
 
 
 - Currently project intern at Infosys SpringBoard 5.0
-- How to reach Me- praneethabrindavanam04@gmail.com
+
 
 
 
