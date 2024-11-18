@@ -4,7 +4,7 @@
 
 
 - Currently project intern at Infosys SpringBoard 5.0
-- Open source contributor at GSSoC'extd 2024
+- How to reach Me-praneethabrindavanam04@gmail.com
 
 
 
@@ -48,8 +48,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px" height="90px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
   </a>
 </div>
 
