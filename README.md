@@ -27,13 +27,7 @@
 
 ### GSSOC(24) Badges 🪶
 
-[![Explorer Badge](https://raw.githubusercontent.com/praneethaBrindavanam/praneethaBrindavanam/main/assets/explorer-badge.png)](https://gssoc.girlscript.tech/)
-[![Adventurer Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/adventurer-badge.png)](https://gssoc.girlscript.tech/)
-[![Trailblazer Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/trailblazer-badge.png)](https://gssoc.girlscript.tech/)
-[![Summit Seeker Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/summit-seeker-badge.png)](https://gssoc.girlscript.tech/)
-[![Champion Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/champion-badge.png)](https://gssoc.girlscript.tech/)
-[![Postman Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/postman-badge.png)](https://gssoc.girlscript.tech/)
-[![Hack Web3Conf Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/hack-web3conf-badge.png)](https://gssoc.girlscript.tech/)
+
 
 
 ### ✍️ Random Dev Quote
