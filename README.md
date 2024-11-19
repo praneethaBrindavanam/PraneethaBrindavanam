@@ -25,16 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praneethaBrindavanam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethaBrindavanam&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### GSSOC(24) Badges 🪶
-
-
-
-
-
-
-
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
