@@ -25,6 +25,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praneethaBrindavanam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethaBrindavanam&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### GSSOC(24) Badges 🪶
+
+[![Explorer Badge](https://raw.githubusercontent.com/praneethaBrindavanam/praneethaBrindavanam/main/assets/explorer-badge.png)](https://gssoc.girlscript.tech/)
+[![Adventurer Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/adventurer-badge.png)](https://gssoc.girlscript.tech/)
+[![Trailblazer Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/trailblazer-badge.png)](https://gssoc.girlscript.tech/)
+[![Summit Seeker Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/summit-seeker-badge.png)](https://gssoc.girlscript.tech/)
+[![Champion Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/champion-badge.png)](https://gssoc.girlscript.tech/)
+[![Postman Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/postman-badge.png)](https://gssoc.girlscript.tech/)
+[![Hack Web3Conf Badge](https://raw.githubusercontent.com/username/my-repo/main/assets/hack-web3conf-badge.png)](https://gssoc.girlscript.tech/)
 
 
 ### ✍️ Random Dev Quote
@@ -38,17 +47,6 @@
 
 
 
-### GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
-   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
-  </a>
-</div>
 
 
 
