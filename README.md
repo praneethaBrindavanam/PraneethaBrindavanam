@@ -27,7 +27,7 @@
 
 
 # 💻 LeetCode Stats:
-![](https://leetcard.praneetha_brindavanam?theme=dark&font=Noto%20Sans%20Avestan)
+![](https://leetcard.Praneetha_brindavanam?theme=dark&font=Noto%20Sans%20Avestan)
 
 
 ### ✍️ Random Dev Quote
