@@ -24,6 +24,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=praneethaBrindavanam&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praneethaBrindavanam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethaBrindavanam&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://leetcard.praneetha_brindavanam/praneetha_brindavanam?theme=unicorn)
+![](https://leetcard.praneetha_brindavanam/praneetha_brindavanam?theme=light,unicorn)
 
 
 ### ✍️ Random Dev Quote
