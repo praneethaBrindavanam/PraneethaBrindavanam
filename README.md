@@ -27,8 +27,7 @@
 
 
 # 💻 LeetCode Stats:
-![](https://leetcard.praneetha_brindavanam/praneetha_brindavanam?theme=unicorn)
-![](https://leetcard.praneetha_brindavanam/praneetha_brindavanam?theme=light,unicorn)
+(https://leetcard.praneetha_brindavanam?theme=dark&font=Noto%20Sans%20Avestan)
 
 
 ### ✍️ Random Dev Quote
