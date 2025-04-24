@@ -29,7 +29,9 @@
 # 💻 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Praneetha_brindavanam?theme=dark&font=Noto%20Sans%20Avestan)](https://leetcode.com/Praneetha_brindavanam/)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Praneetha_brindavanam}" alt="LeetCode Badges" />
+![50 Days of LeetCode](https://img.shields.io/badge/50_Days_of_LeetCode-Completed-blueviolet?style=for-the-badge&logo=leetcode&logoColor=white)
+
+
 
 
 ### ✍️ Random Dev Quote
